@@ -6,7 +6,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 2872,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Bitcoin Dice Game MG',
+  app_name: 'Untitled Dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LfcgSMUAAAAAHo491t9NjkHBl4Vzr4J-3_6UpdQ',  // <----- EDIT ME!
